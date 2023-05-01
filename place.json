@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "photoUrl": "https://i.ibb.co/yP9zPqm/Rectangle-1.png",
+    "name": "Cox's Bazar",
+    "details": "Cox's Bazar is a city, fishing port, tourism centre and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach, and it ...."
+  },
+  {
+    "id": 2,
+    "photoUrl": "https://i.ibb.co/4FTHtg1/zunnoon-ahmed-06-Fc-R9h-A8w-unsplash.jpg",
+    "name": "Saint Martins",
+    "details": "St. Martin is generally known as “Narikel Zinzira” in Bengali, means 'Coconut Island' and this is the only coral reef island in Bangladesh. It is a small island in the north eastern part of the Bay of Bengal, created the southernmost part of our country."
+  },
+  {
+    "id": 3,
+    "photoUrl": "https://i.ibb.co/XFv7DNk/mainul-islam-Lkh9-Zh-SDxuc-unsplash.jpg",
+    "name": "Sajek Valley",
+    "details": "Sajek is a union located in the north of Chittagong Hill Tracts. It's under Baghaichori Upazila in Rangamati hill district, it is situated 67 kilometres (42 mi) north-east from Khagrachhari town and 95 kilometres (59 mi) north from Rangamati city"
+  },
+  {
+    "id": 4,
+    "photoUrl": "https://i.ibb.co/CQBY6cN/sundorbon.png",
+    "name": "Sundarbans",
+    "details": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India's Sundarbans World Heritage site inscribed in 1987."
+  },
+  {
+    "id": 5,
+    "photoUrl": "https://i.ibb.co/0GCRkJt/Sreemongol.png",
+    "name": "Sreemangal",
+    "details": "Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, the rubber, pineapple, wood, betel, and lemon industries also exist in the upazila.."
+  }
+]
